@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi
 
-<!--
-**Riikq/riikq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## "Pengalaman"
+Dalam lanskap konvergensi strategis, entitas ini berperan sebagai penggerak orkestrasi kapabilitas lintas spektrum melalui penyelarasan nilai dan akselerasi berkelanjutan. Dengan mengedepankan alignment sistemik, optimalisasi leverage konseptual, serta penguatan dinamika adaptif, terbentuk kerangka operasional yang responsif, terukur, dan selaras dengan arah transformasi jangka panjang, tanpa memerlukan artikulasi peran maupun output secara eksplisit. Bekerja di PT pete.
 
-Here are some ideas to get you started:
+## "On-going:"
++ Dinamika disrupsi semu dalam sistem sosio-teknis berbasis friksi terkelola
++ Model intervensi non-linear dengan asumsi keberhasilan implisit dan verifikasi pasca-kejadian
++ Generalisasi naratif dalam pemodelan matematis tingkat lanjut berbasis kurva derajat tinggi
++ Transmutasi struktur konseptual melalui fase cair epistemik
++ Dekonstruksi analisis kuantitatif menggunakan kerangka analitis refleksif berlapis
++ Observasi terapan terhadap entitas biologis berperilaku oportunistik dalam ekosistem terbatas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
